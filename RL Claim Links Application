@@ -26,7 +26,8 @@
 
 ### Project Details
 
-We have built a Proof-of-Concept for a system that abbreviates long-form URLs for EOS account creation and for NFT claims into custom-domain-shortened URLs and simple QR codes. 
+We have built a Proof-of-Concept https://github.com/ChuckMacDonald/welcomewagon/blob/main/6-Cards%20PoC%20%26%20Phone%20Mockup.jpg for a system that abbreviates 
+long-form URLs for EOS account creation and for NFT claims into custom-domain-shortened URLs and simple QR codes. 
 It will allow us to build using traditional infrastructure and user databases, yet link to EOS accounts, and reward them with NFTs for accomplishing simple tasks.
 The first of these simple tasks is the use of a printed card to create a .gm EOS account, and the NFT reward for this task is claimed by using the link on the same card.
 
@@ -135,13 +136,15 @@ https://www.linkedin.com/in/seanxanderson/
 Beginning in the fall of 2021, I (Chuck) began experimenting with the Greymass account creation process, and became aware that the sharing of those urls could lead 
 somewhere interesting for onboarding on EOS. After several conversations with Aaron Cox of Greymass, an experimental set of codes was given to me, and I began sharing
 the codes with friends and family. The process was still rather rough, but I was able to help most people get thru it. This past spring, I began experimenting with 
-QR codes in print, and found that results were far better when using an abreviated url. I was able to produce a large handbill (1/2 a page) that contained several 
-codes on it (see Exhibit 1). I gave a number of public and private talks on 'Real Life Implications of the Bitcoin Sector', featuring EOS and Eden. While a bit 
-convoluted, the talks were successful in raising awareness, and they helped my to further hone my onboarding delivery. Around this time I was developing a friendship
-with Domenic Thomas of Agenix, and we decided to become partners in this venture. During my time in Eden I have seen the value of authentic relationships between real 
-people when onboarding, and it led me to create a very simple physical product that could be shared between individuals in person. (Exhibit 2) This opens the door to 
-'Real Life' organizations bringing their entire membership list onto EOS if they have a reason to do it. This will allow representatives at trade shows to hand out a
-real EOS account to someone they are speaking with, even handing them another card that contains a gift of an NFT backed by 1, 5, 10 or more EOS. (Exhibit 3)
+QR codes in print, and found that results were far better when using an abreviated url. https://github.com/ChuckMacDonald/welcomewagon/blob/main/0-Account%20claim%20Component.png
+I was able to produce a large handbill (1/2 a page) that contained several codes on it. https://github.com/ChuckMacDonald/welcomewagon/blob/main/1-Handbill%20Page%20Front%201.png
+https://github.com/ChuckMacDonald/welcomewagon/blob/main/2-Handbill%20Page%20Reverse.png I gave a number of public and private talks on 'Real Life Implications of the 
+Bitcoin Sector', featuring EOS and Eden. While a bit convoluted, the talks were successful in raising awareness, and they helped me to further hone my onboarding 
+delivery. Around this time I was developing a friendship with Domenic Thomas of Agenix, and we decided to become partners in this venture. During my time in Eden I 
+have seen the value of authentic relationships between real people when onboarding, and it led me to create a very simple physical product that could be shared between
+individuals in person. This opens the door to 'Real Life' organizations bringing their entire membership list onto EOS if they have a compelling reason to do it. 
+This will allow representatives at trade shows to hand out a real EOS account to someone they are speaking with, even handing them another card that contains a gift 
+of an NFT backed by 1, 5, 10 or more EOS.https://github.com/ChuckMacDonald/welcomewagon/blob/main/3-Card%20PoC%20Front.png https://github.com/ChuckMacDonald/welcomewagon/blob/main/4-Card%20PoC%20Back1.png
 
 We are now reaching out to organizations and networks who might like to partner with us to test these cards. We have looked into bulk printing options, various print 
 formats and qualities, and even permanent etched steel cards, with QR links that would recharge automatically. 
@@ -191,7 +194,6 @@ with unique account claim and NFT claim links on each card. Printing and shippin
 | 0b. | Documentation | Documentation will include a listing of all services used & a flow chart of the APIs used. There will also be help at welcomewagon.ai for the process.
 | 0c. | Testing Guide | We will provide a detailed step-by-step walkthrough of the process. The test will be to use a card and then use it again after its recharge period has elapsed. 
 | 1. | Delivered Product | 10 digital business cards. The end result will be printable proofs of 10 unique cards sent to ENF for evaluation. 
-
 
 
 ### Milestone 3 - Templates and Enhanced Process Documentation
@@ -248,7 +250,3 @@ We have been in consultation with many specialists in the EOSIO community, espec
 No other teams have contributed financially to this project. 
 We are excited to offer our solution to the EOSIO community as it prepares for the rollout of its new branding.  
 
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
