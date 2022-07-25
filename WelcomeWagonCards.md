@@ -171,13 +171,9 @@ although they are built using a method that is more far manual than we would lik
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT |
-| 0b. | Documentation | Project Github will include a listing of all services used & a flow chart of the APIs used. There will also be a document at 
-welcomewagon.ai/help walking users through the process. The process will be explained in general terms, because our implementation of it is dependant on subscriptions
-to several services, and custom integrations of those services. 
-| 0c. | Testing Guide | We will provide a detailed step-by-step walkthrough of the process. Testing of the process will be the picking of a random card from the
-delivery and scanning it with a phone, and the completion of the action.   
-| 1.  | Delivered Product          | 200 unique business cards delivered (digitally) within 24 hours of the ENF providing a design or logo for the NFT
-with unique account claim and NFT claim links on each card. Printing and shipping may follow, at the ENF's option.  
+| 0b. | Documentation | Project Github will include a listing of all services used & a flow chart of the APIs used. There will also be a document at welcomewagon.ai/help walking users through the process. The process will be explained in general terms, because our implementation of it is dependant on subscriptions to several services, and custom integrations of those services. 
+| 0c. | Testing Guide | We will provide a detailed step-by-step walkthrough of the process. Testing of the process will be the picking of a random card from thedelivery and scanning it with a phone, and the completion of the action.   
+| 1.  | Delivered Product          | 200 unique business cards delivered (digitally) within 24 hours of the ENF providing a design or logo for the NFT with unique account claim and NFT claim links on each card. Printing and shipping may follow, at the ENF's option.  
 | 2.  | Product Interface to EOSIO | Our cards are standalone URLs which trigger blockchain events - the creation of a new .gm EOS account, and the claiming of an NFT.  
 | 3.  | Front-End / User Interface | The user interface is the printed card. The user may either scan the QR codes, or they can input the URLs manually. 
 
@@ -208,7 +204,7 @@ with unique account claim and NFT claim links on each card. Printing and shippin
 | 0b. | Documentation | Documentation will include the use of our cards & the use of the design templates we will create. 
 | 0c. | Testing Guide | We will provide a detailed step-by-step walkthrough of the process of using the printed cards
 | 0e. | Article | We will publish an **article** that explains what we have accomplished through the grant, and show how our process can be used to share URLs and digital goods in creative ways.  
-| 1. | Figma Template | We will publish a simple EOS-branded Figma template with components set up to receive the QR codes and URLs from a sheet. eg. "NFT and blockchain account card Template"
+| 1. | Figma Template | We will publish a simple EOS-branded Figma template with components set up to receive the QR codes and URLs from a sheet. eg. "NFT and EOS account card Template"
 | 2. | Google Sheets Template | We will publish a simple Google Sheets template which will pair with the Figma template to populate it.
 
 ## Future Plans
@@ -233,14 +229,12 @@ concerts, sporting events, protests, etc.
 
 ## Additional Information
 
-**How did you hear about the Grants Program?** EOS Network Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?**
 
-> Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 We heard about the Grants Program thru regular EOS channels - Everything EOS, ENF press releases, etc. We have put in a lot of work on this project already, and
 hope to receive remuneration for it in exchange for a well documented, accessible product. We are confident that our onboarding technique is something that all EOSIO
 networks urgently require, and that these networks will see value in subsidizing its development, and we are also confident that by providing a method that all but 
 eliminates sybil attack vectors, the networks will also subsidize the creation of the accounts. 
-
 
 Much of the work for our first two deliverables has already been done. The design of the process, the layout of the cards, testing on users of various levels of technical
 competence, etc, are an ongoing work in progress, but we feel confident that the cards are now useable - especially for the kind of person that one might find at a blockchain
@@ -248,5 +242,6 @@ conference or hackathon. The major work still outstanding is mostly technical - 
 
 We have been in consultation with many specialists in the EOSIO community, especially Greymass and BountyBlok.
 No other teams have contributed financially to this project. 
+
 We are excited to offer our solution to the EOSIO community as it prepares for the rollout of its new branding.  
 
