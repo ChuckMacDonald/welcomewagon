@@ -1,15 +1,7 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
-> Lines starting with a `>` (such as this one) should be removed.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels.
->
-> Deleting lines that start with **Bold Labels** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
 
-- **Project Name:** WelcomeWagon
+- **Project Name:** WelcomeWagon Cards
 - **Team Name:** Agenix LLC
 - **EOS Payment Address:** agenix.gm
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
@@ -24,13 +16,9 @@
 - **Contact Email:** chuck@agenix.io
 - **Website:** welcomewagon.ai
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
-
 ## Project Overview
 
 ### Overview
-
-> Please provide the following:
 
 - **Name:** Welcomewagon Claim Link Infrastructure and Card Production
 - **Brief Description:** Services and API work to allow for bulk management of EOS account & NFT claim urls, physical print prototype, design templates. 
@@ -39,34 +27,35 @@
 
 ### Project Details
 
-
-We have built a PoC for a system that abreviates long-form URLs for EOS account creation and for NFT claims into custom-domain-shortened URLs and simple QR codes. 
+We have built a Proof-of-Concept for a system that abbreviates long-form URLs for EOS account creation and for NFT claims into custom-domain-shortened URLs and simple QR codes. 
 It will allow us to build using traditional infrastructure and user databases, yet link to EOS accounts, and reward them with NFTs for accomplishing simple tasks.
+The first of these simple tasks is the use of a printed card to create a .gm EOS account, and the NFT reward for this task is claimed by using the link on the same card.
 
 Using standard web tools such as URL shorteners, G-suite, & CRM in conjunction with the Greymass account creation process & atomicassets NFT gifts, we are able
-to create a database of URLs (both in text and QR) from which we can create print material.At this point it is not automated, but we hope to minimize the manual 
+to create a database of URLs (both in text and QR) from which we can create print material. At this point it is not automated, but we hope to minimize the manual 
 process as much as possible thru this grant. 
 
-Our goal with this grant is to move from a proof-of-concept towards an MVP. 
+Our goal with this grant is to build the back-end infrastructure that will enable us to scale up the production of our cards, and to better analyze how the cards are
+used by the EOS community so that we can improve their design and distribution. 
 
-This requires funding for subscriptions to several web services (eg. Bitly.com URL shortening service, Hubspot CRM, Make.com, G-Suite, Figma, etc.), as well as
+This requires funding for subscriptions to several web services (eg. Bitly.com URL shortening service, Hubspot CRM, Make.com, G-Suite, Figma, Adobe, etc.), as well as
 infrastructure for hosting. Depending on the scale at which we are able to produce the cards, we will quickly need to replace the subscription-based URL shortener
 with our own solution. 
 
 Production of the printed material requires research and experimentation with graphical layout software (and its integration with our database of URLs) to populate 
 large quantities of business cards and posters. As batches of business cards are successfully printed, they need to be distributed to on-the-ground onboarding 
-opportunities, such as blockchain conferences or to social movements like EOS Marketplace. In order to properly measure the effectiveness of this method as an 
-onboarding tool, we will have to collect and analyze every bit of data created. We are currently developing a list of potential test partners who could take a set 
-of cards and commit to their distribution. Part of this printing and distribution process will be the discovery of our gross costs, and an idea of the value of 
-these cards to the market and the EOS Network. 
+opportunities, such as blockchain conferences or to social movements like EOS Marketplace, and local meetups. In order to properly measure the effectiveness of this
+method as an onboarding tool, we will have to collect and analyze every bit of data created. We are currently developing a list of potential test partners who could
+take a set of cards and commit to their distribution. Part of this printing and distribution process will be the discovery of our gross costs, and an idea of the 
+value of these cards to the market and the EOS Network. 
 
 We also plan on creating testing cards that will have QR codes that would automatically recharge, allowing the bearer to repeatedly distribute new EOS accounts and NFTs.
 
 This project is a component of the larger welcomewagon project, but is specifically focused on the production of claim links & the quick ramp-up of 
 the QR card production, as well as the creation and upkeep of a database of shortened links that we can use for large-scale card production.
 
-The most serious immediate envisioned limitation is that of bitly.com, which for $200 per month can allow us to create approximately 1500 cards per month (3000 unique
-links). They obviously offer packages for more links, but we know that we will need to set up our own in-house link shortening service in very short order. 
+The most serious immediate envisioned limitation is that of Bitly.com, which for $200 per month can allow us to create approximately 1500 cards per month (3000 unique
+links). They obviously offer packages for more links, but we know that we will need to set up our own in-house link shortening service in very short order.
 
 There are concerns with the security of 7-digit abreviated URLs against brute force attacks, but at this stage it is not an issue, because we are dealing with
 extremely low-value claim links, and because we are still unknown. In the future though, especially with the permanent cards, or with cards that contain backed NFTs
