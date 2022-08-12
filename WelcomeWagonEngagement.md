@@ -72,7 +72,7 @@ EOSIO - or any other chain - that accomplishes what our business cards do. We in
 immediately rewarding them for their effort. 
 
 With our first generation of cards, we prove that it is possible and desireable to have a physical touchstone to our network. With unique and attractive cards, we 
-hope to move our intended audience to try out the account creation process. As proven in this video, it is possible to complete the process in two and a half minutes.
+hope to move our intended audience to try out the account creation process. As proven in this video https://github.com/ChuckMacDonald/welcomewagon/blob/main/Greymass%20Account%20Creation%20and%20NFT%20Claim%20on%20Android_2.mp4, it is possible to complete the process in two and a half minutes.
 When both the account is created and the NFT claimed, we will have successfully acquired a new EOS user, who will hopefully want to learn more about the network. We
 intend to use the advanced analytical tools built into our URLs to help understand and improve upon our cards' success rate. Over time, production costs will decrease
 and we believe that the cards' effectiveness will increase.  
