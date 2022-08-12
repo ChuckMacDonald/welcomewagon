@@ -168,7 +168,7 @@ although they are built using a method that is more far manual than we would lik
 | 0a. | License | None |
 | 0b. | Documentation | There will be a comprehensive step-by-step guide built on welcomewagon.ai/help to walk users through the process.   
 | 0c. | Testing Guide | We will provide a detailed step-by-step walkthrough of the process. We recommend testing several cards from the bulk order in the same manner as for Milestone 1.
-| 1. | Delivered Product | 1000+ Onboarding & Engagement Cards. 'Success' defined by the claim of the NFT gift - multiple claims on same EOS account will not count as 1 success. 
+| 1. | Delivered Product | 1000+ Onboarding & Engagement Cards. 'Success' defined by the claim of the NFT gift - multiple claims on same EOS account will count as 1 success. 
 
 ### Milestone 3 - Full Report on Card Clicks and Success Rate
 
