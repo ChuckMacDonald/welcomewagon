@@ -142,18 +142,18 @@ although they are built using a method that is more far manual than we would lik
 - **Full-Time Equivalent (FTE):** 1 FTE
 - **Total Costs:** 
 
-### Milestone 1 — Production of First Batch of 50 Cards
+### Milestone 1 — Production of First Batch of 25 Cards
 
 - **Estimated duration:** 2 weeks
 - **FTE:**  1
-- **Costs:**  $345.86 USD
+- **Costs:**  $150.60 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | None |
 | 0b. | Documentation | A full report of card clicks and success rates will be provided within 1 week of their distribution. 
 | 0c. | Testing Guide | We will provide a detailed step-by-step walkthrough of the process. Testing of the process will be the picking of a random card from the delivery and scanning it with a phone. The URLs can be followed and inspected without exhausting the cards.    
-| 1.  | Delivered Product          | 50 unique cards with EOS icon (3D chestahedron frame) inside metal frame. On back, 3 URLs for Install Wallet, Create Account, and Claim NFT. These cards will not expire and can be shipped to the ENF immediately. 
+| 1.  | Delivered Product          | 25 unique cards with EOS icon (3D chestahedron frame) inside metal frame. On back, 3 URLs for Install Wallet, Create Account, and Claim NFT. These cards will not expire and can be shipped to the ENF immediately. 
 | 2.  | Product Interface to EOSIO | Our cards are standalone URLs which trigger blockchain events - the creation of a new .gm EOS account, and the claiming of an NFT.  
 | 3.  | Front-End / User Interface | The user interface is the printed card. The user may either scan the QR codes, or they can input the URLs manually. 
 
@@ -161,7 +161,7 @@ although they are built using a method that is more far manual than we would lik
 ### Milestone 2 - Bulk order for blockchain conference 'swag'
 - **Estimated Duration:** 3 weeks
 - **FTE:**  1
-- **Costs:** $1,872.66 /1000 Cards
+- **Costs:** $1,825.05 /1000 Cards
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -174,13 +174,13 @@ although they are built using a method that is more far manual than we would lik
 
 - **Estimated Duration:** 2 weeks
 - **FTE:**  1
-- **Costs:** Dependant on success rate of Milestone 2 cards: 10%+ success=$499.38, 20%+=$1014.36, 30%+=$1560.55
+- **Costs:** Dependant on success rate of Milestone 2 cards: 10%+ success=$486.68, 20%+=$988.57, 30%+=$1,520.88
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | None |
 | 0b. | Documentation | Full report of the success rate of the cards from Milestone 2, using data from their links' UTM tags, and a list of all EOS accounts that claimed the NFTs.
-| 0c. | Testing Guide | N/A
+| 0c. | Testing Guide | The card success rate shall be determined by dividing the number of NFTs claimed from the batch by the number of cards distributed, after determining whether any accounts had claimed more than one NFT. (Any accounts that claim more than one NFT shall count as 1 successful card)
 | 0e. | Article | We will publish an **article** that explains to the public what the cards are, what they can ideally accomplish, and a report on their success rate in their first iteration.
 | 1. | Report | The report to the ENF will be a .pdf with summaries of all the data collected from the cards and recommendations on how we can improve their success rates for future distributions.
 
