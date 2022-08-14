@@ -151,30 +151,30 @@ although they are built using a method that is more far manual than we would lik
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | None |
-| 0b. | Documentation | A full report of card clicks and success rates will be provided within 1 week of their distribution. 
-| 0c. | Testing Guide | We will provide a detailed step-by-step walkthrough of the process. Testing of the process will be the picking of a random card from the delivery and scanning it with a phone. The URLs can be followed and inspected without exhausting the cards.    
-| 1.  | Delivered Product          | 25 unique cards with EOS icon (3D chestahedron frame) inside metal frame. On back, 3 URLs for Install Wallet, Create Account, and Claim NFT. These cards will not expire and can be shipped to the ENF immediately. 
+| 0b. | Documentation | Help will be found at welcomewagon.ai/help 
+| 0c. | Testing Guide | We will provide a detailed step-by-step walkthrough of the process. Testing of the process will be the picking of a random card from the delivery and scanning it with a phone. The URLs can be scanned and inspected without exhausting the cards.    
+| 1.  | Delivered Product          | 25 unique cards with EOS icon (3D chestahedron wireframe) inside metal frame. On back, 3 URLs for Install Wallet, Create Account, and Claim NFT. These cards will not expire and can be shipped to the ENF immediately. 
 | 2.  | Product Interface to EOSIO | Our cards are standalone URLs which trigger blockchain events - the creation of a new .gm EOS account, and the claiming of an NFT.  
-| 3.  | Front-End / User Interface | The user interface is the printed card. The user may either scan the QR codes, or they can input the URLs manually. 
+| 3.  | Front-End / User Interface | The user interface is the printed card. The user may either scan the QR codes, or she can input the URLs manually. 
 
 
 ### Milestone 2 - Bulk order for blockchain conference 'swag'
 - **Estimated Duration:** 3 weeks
 - **FTE:**  1
-- **Costs:** $1,825.05 /1000 Cards
+- **Costs:** $1,780.89 /1000 Cards
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | None |
 | 0b. | Documentation | There will be a comprehensive step-by-step guide built on welcomewagon.ai/help to walk users through the process.   
 | 0c. | Testing Guide | We will provide a detailed step-by-step walkthrough of the process. We recommend testing several cards from the bulk order in the same manner as for Milestone 1.
-| 1. | Delivered Product | 1000+ Onboarding & Engagement Cards. 'Success' defined by the claim of the NFT gift - multiple claims on same EOS account will count as 1 success. 
+| 1. | Delivered Product | 1000+ Onboarding & Engagement Cards. Each card will have 2 unique URLs, and bear the image & design of the ENF's choice.  
 
 ### Milestone 3 - Full Report on Card Clicks and Success Rate
 
 - **Estimated Duration:** 2 weeks
 - **FTE:**  1
-- **Costs:** Dependant on success rate of Milestone 2 cards: 10%+ success=$486.68, 20%+=$988.57, 30%+=$1,520.88
+- **Costs:** Dependant on success rate of Milestone 2 cards: 10%+ success=$474.90, 20%+=$964.65, 30%+=$1,484.08
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -189,20 +189,12 @@ although they are built using a method that is more far manual than we would lik
 Once the cards can be produced in bulk, we will turn our attention to a process for ordering them on the welcomewagon.ai website. While we are building a solution for
 ordering them, we plan to rely on direct sales contact with our customers.. 
 
-Once the cards begin to achieve success in Real Life settings, we anticipate an overwhelming demand for them. When we have users coming to welcomewagon.ai because of the cards or
-because of another referral in the EOS ecosystem, we will generate large quantities of valuable data on EOS users and their tendancies. This data will be valuable to 
-dapps and other destinations. Through focused, short e-learning sessions, we will educate our users on the network and dapps, and our e-learning department will grow, 
-as it takes on more clients that need material made for them. We are building this prototype on EOS, but will also onboard to EOS Coalition chains and engage using the
-same mechanisms as on EOS (the Greymass account creation process, and NFTs). We will also be one of the first users for Greymass's process when it allows other custom
-domains. We have 2-letter name-space domains on each network that we plan to use in that eventuality.
+When the cards begin to achieve success in Real Life settings, we anticipate an overwhelming demand for them. When we have users coming to welcomewagon.ai because of the cards or because of another referral in the EOS ecosystem, we will generate large quantities of valuable data on EOS users and their tendancies. This data will be valuable to dapps and other destinations. Through focused, short e-learning sessions, we will educate our users on the network and dapps, and our e-learning department will grow, as it takes on more clients that need material made for them. We are building this prototype on EOS, but will also onboard to EOS Coalition chains and engage using the same mechanisms as on EOS (the Greymass account creation process, and NFTs). We will also be one of the first users for Greymass's process when it allows other custom domains. We have 2-letter name-space domains on each network that we plan to use in that eventuality.
 
 Apart from the potential for printed links, we will also offer our solution as a way to provide organizations with a bulk digital onboarding solution. eg. "This email
 contains instructions for you to create your new EOS account and claim this community's membership NFT"
 
-The future of blockchain interactions in print is very bright, especially when NFC chips and AR are added into the mix. We envision persistant signage at Points-of-sale,
-NFC account faucets in public places, guerilla marketing such as stickers at drive-thru windows, and cards like ours passed out at mass gatherings of people - festivals,
-concerts, sporting events, protests, etc. 
-
+The future of blockchain interactions in print is very bright, especially when NFC chips and AR are added into the mix. We envision persistant signage at Points-of-sale, NFC account faucets in public places, guerilla marketing such as stickers at drive-thru windows, and cards like ours passed out at mass gatherings of people - festivals, concerts, sporting events, protests, etc. 
 
 ## Additional Information
 
@@ -212,9 +204,8 @@ We heard about the Grants Program thru regular EOS channels - Everything EOS, EN
 hope to receive remuneration for it in exchange for a well documented, accessible product. We are confident that our onboarding technique is something that all EOSIO
 networks urgently require, and that these networks will see value in subsidizing its development. 
 
-Much of the work for our first two deliverables has already been done. The design of the process, the layout of the cards, testing on users of various levels of technical
-competence, etc, are an ongoing work in progress, but we feel confident that the cards are now useable - especially for the kind of person that one might find at a blockchain
-conference or hackathon. The major work still outstanding is mostly technical - the API scripting and either web or in-house services to scale the operation up.
+While our cards can now be ordered in bulk quantities, we are still working to refine and automate the ordering and creation process.  The major work still outstanding
+is mostly technical - the API scripting and either web or in-house services to scale it up.
 
 We have been in consultation with many specialists in the EOSIO community, especially Greymass and BountyBlok.
 No other teams have contributed financially to this project. 
