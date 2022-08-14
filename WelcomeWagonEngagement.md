@@ -129,7 +129,7 @@ of an NFT backed by 1, 5, 10 or more EOS.https://github.com/ChuckMacDonald/welco
 We are now reaching out to organizations and networks who might like to partner with us to test these cards. We have looked into bulk printing options, various print 
 formats and qualities, and even permanent etched steel cards, with QR links that would recharge automatically. 
 
-We are building welcomewagon.ai on web2 standards, integrating with CRM (Hubspot), and limiting (at this time) blockchain integrations to claim links, so that we
+We are building welcomewagon.ai on web2 standards, integrating with CRM, and limiting (at this time) blockchain integrations to claim links, so that we
 can build our MVP as quickly and efficiently as possible. Above all, we want our product to be functional at each step of its development. The cards work today, 
 although they are built using a method that is more far manual than we would like. 
 
